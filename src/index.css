@@ -31,12 +31,13 @@ code {
 }
 
 .body-content {
-  position: relative;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .header {
-  margin: 2rem auto;
+  margin: 1rem auto 1rem;
   text-align: center;
   -webkit-text-stroke: 1px var(--clr-accent);
 }

@@ -1,0 +1,4 @@
+.card {
+  box-shadow: var(--box-sdw);
+  border-radius: 1rem;
+}

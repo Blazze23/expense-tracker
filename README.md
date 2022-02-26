@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# About Expenses Tracker App
+
+This is an app created in React, where you can add new expenses, but also filter them by year, and also see in which month you had biggest expenses.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,13 +1,13 @@
 import React from "react";
 
 import logo from "../../logo.svg";
-import "./Footer.css";
+import styles from "./Footer.module.css";
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className={styles.footer}>
       <h2>Powered by</h2>
-      <img src={logo} className="logo" alt="logo"></img>
+      <img src={logo} className={styles.logo} alt="logo"></img>
     </footer>
   );
 };
